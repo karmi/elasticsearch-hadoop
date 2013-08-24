@@ -1,4 +1,4 @@
-# ElasticSearch Hadoop [![Build Status](http://54.225.158.147:3000)](http://build.elasticsearch.org/browse/ESHADOOP-MASTER)
+# ElasticSearch Hadoop [![Build Status](https://54.225.158.147:3000)](http://build.elasticsearch.org/browse/ESHADOOP-MASTER)
 
 Read and write data to/from ElasticSearch within Hadoop/MapReduce libraries. Automatically converts data to/from JSON. Supports [MapReduce](#mapreduce), [Cascading](#cascading), [Hive](#hive) and [Pig](#pig).
 
